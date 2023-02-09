@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "173584dfa129aa3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dd99e0da21971b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "363f9499040072dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc9c4f0d7c537a9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "859b09d35b05b597",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb2eeaebda9d0f76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4fd86d705c5a9988",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "father",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 599.5
+  },
+  "right": {
+    "id": "9fee9852059d2938",
+    "type": "split",
+    "children": [
+      {
+        "id": "fde3ef7c378130b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "377b62fa2ca45af2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b33b21d71c6acc67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "363f9499040072dc",
+  "lastOpenFiles": [
+    "The cafeteria diet leads to higher caloric intake by supplying calories and encouraging eating.md",
+    "Test.md",
+    "plato/apology/I was attached to this city by the god as upon a great and noble horse which was somewhat sluggish because of its size and needed to be stirred up by a kind of gadfly..md",
+    "plato/the_republic/Socrates says he's a gift from the god called to awaken those who doze.md",
+    "plato/the_republic/Eyesight, light, sight, and perception themes in Plato's Republic.md",
+    "plato/the_republic/The cave in Plato's Republic.md",
+    "plato/the_republic/\"Feasting, greed, and other such pleasures\" blunt a person's divine senses and weights them down, keeping them weighted down.md",
+    "aristotle/nicomachean_ethics/Excellence (virtue, arete) is the thing that makes anything an outstanding specimen of its kind, especially well fitted to its ends..md",
+    "plato/the_republic/Excellence (virtue, arete) is a state of being where a thing is doing its function well.md",
+    "aristotle/nicomachean_ethics/Honor is not the highest good because I can't make or give it and it can easily be taken away. \"We divine that the good is something of one’s own and hard to take away\".md"
+  ]
+}

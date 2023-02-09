@@ -1,0 +1,12 @@
+{
+  "enabledPlugins": [],
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "obsidianCss": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "autoConvertHtml": true,
+  "vimMode": true,
+  "legacyEditor": false,
+  "livePreview": true
+}

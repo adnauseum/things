@@ -1,0 +1,77 @@
+{
+  "workspace:edit-file-title": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:focus": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "E"
+    }
+  ],
+  "editor:focus-left": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:focus-right": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:focus-top": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "K"
+    }
+  ],
+  "editor:focus-bottom": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "J"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "]"
+    }
+  ]
+}
