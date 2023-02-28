@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1dd99e0da21971b4",
+        "id": "c06124aecd225740",
         "type": "tabs",
         "children": [
           {
-            "id": "363f9499040072dc",
+            "id": "14ed69e8ee45ff80",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "father",
+                "query": "tag:#big_idea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,11 +53,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 599.5
+    "width": 280.5
   },
   "right": {
     "id": "9fee9852059d2938",
@@ -112,17 +113,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "363f9499040072dc",
+  "active": "14ed69e8ee45ff80",
   "lastOpenFiles": [
-    "The cafeteria diet leads to higher caloric intake by supplying calories and encouraging eating.md",
-    "Test.md",
-    "plato/apology/I was attached to this city by the god as upon a great and noble horse which was somewhat sluggish because of its size and needed to be stirred up by a kind of gadfly..md",
-    "plato/the_republic/Socrates says he's a gift from the god called to awaken those who doze.md",
-    "plato/the_republic/Eyesight, light, sight, and perception themes in Plato's Republic.md",
-    "plato/the_republic/The cave in Plato's Republic.md",
-    "plato/the_republic/\"Feasting, greed, and other such pleasures\" blunt a person's divine senses and weights them down, keeping them weighted down.md",
-    "aristotle/nicomachean_ethics/Excellence (virtue, arete) is the thing that makes anything an outstanding specimen of its kind, especially well fitted to its ends..md",
-    "plato/the_republic/Excellence (virtue, arete) is a state of being where a thing is doing its function well.md",
-    "aristotle/nicomachean_ethics/Honor is not the highest good because I can't make or give it and it can easily be taken away. \"We divine that the good is something of one’s own and hard to take away\".md"
+    "How is it possible to not do what's best?.md",
+    "Question.md",
+    "Haste is an enemy to play, contemplation, discovery, and tranquility..md",
+    "Don't read Plato for the answers, but for the questions..md",
+    "Plato comes alive in discussion..md",
+    "Why is it better to be tranquil than not?.md",
+    "Why do we care about anything?.md",
+    "excerpts/montaigne/essays/Montaigne likens learning to a process of eating, digestion, and incorporation..md",
+    "excerpts/montaigne/essays/The point of learning is \"go at a better gait\" and to have \"sounder judgment.\".md",
+    "JavaScript was designed to enhance user experience..md"
   ]
 }
