@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c06124aecd225740",
+        "id": "6e7f90b8e20c4153",
         "type": "tabs",
         "children": [
           {
-            "id": "14ed69e8ee45ff80",
+            "id": "c8c283784bf939bb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#big_idea",
+                "query": "#plato",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,17 +112,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "14ed69e8ee45ff80",
+  "active": "c8c283784bf939bb",
   "lastOpenFiles": [
+    "README.md",
+    "Documents present data, text, and inputs in a structured form to a reader..md",
+    "Don't read Plato for the answers, but for the questions..md",
+    "Gmail is a table of hyperlinks that you can click, search, sort, filter, and assign to folders..md",
+    "My 3 year old knew that there was more water in water-shooting a bath toy because he felt the water sloshing around inside it..md",
+    "Recollection.md",
     "How is it possible to not do what's best?.md",
     "Question.md",
     "Haste is an enemy to play, contemplation, discovery, and tranquility..md",
-    "Don't read Plato for the answers, but for the questions..md",
-    "Plato comes alive in discussion..md",
-    "Why is it better to be tranquil than not?.md",
-    "Why do we care about anything?.md",
-    "excerpts/montaigne/essays/Montaigne likens learning to a process of eating, digestion, and incorporation..md",
-    "excerpts/montaigne/essays/The point of learning is \"go at a better gait\" and to have \"sounder judgment.\".md",
-    "JavaScript was designed to enhance user experience..md"
+    "Plato comes alive in discussion..md"
   ]
 }
