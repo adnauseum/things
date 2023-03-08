@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6e7f90b8e20c4153",
+        "id": "bc541dd6a0efeae4",
         "type": "tabs",
         "children": [
           {
-            "id": "c8c283784bf939bb",
+            "id": "f2b54ae9555324c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Plato's dialogues come alive in discussion..md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Plato's dialogues come alive in discussion..md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +117,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c8c283784bf939bb",
+  "active": "f2b54ae9555324c9",
   "lastOpenFiles": [
+    "excerpts/montaigne/essays/The point of learning is \"go at a better gait\" and to have \"sounder judgment.\".md",
+    "excerpts/montaigne/essays/The greatest scholars are not the wisest men. But how is it possible that a soul rich in the knowledge of so many things should not thereby become keener?.md",
+    "excerpts/montaigne/essays/Montaigne likens learning to a process of eating, digestion, and incorporation..md",
+    "excerpts/montaigne/essays/I hate men base in deeds but wise in words..md",
+    "excerpts/montaigne/essays/Any time they were put to the test of action, were seen to soar on such a lofty wing that it clearly appeared that their heart and soul had been marvelously enlarged and enriched by the understanding of things..md",
+    "excerpts/The wild antelope is not a document until its captured, take to a zoo, and made an object of study..md",
+    "Learning should result in good actions..md",
     "README.md",
     "Documents present data, text, and inputs in a structured form to a reader..md",
-    "Don't read Plato for the answers, but for the questions..md",
-    "Gmail is a table of hyperlinks that you can click, search, sort, filter, and assign to folders..md",
-    "My 3 year old knew that there was more water in water-shooting a bath toy because he felt the water sloshing around inside it..md",
-    "Recollection.md",
-    "How is it possible to not do what's best?.md",
-    "Question.md",
-    "Haste is an enemy to play, contemplation, discovery, and tranquility..md",
-    "Plato comes alive in discussion..md"
+    "Don't read Plato for the answers, but for the questions..md"
   ]
 }
